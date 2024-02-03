@@ -18,7 +18,6 @@
 ### 📜 Wishlist
 
 ![Clojure](https://img.shields.io/badge/-Clojure-05122A?style=flat&logo=Clojure&logoColor=276DC3)&nbsp;
-![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=CUDA&logoColor=276DC3)&nbsp;
 
 ## 📈 Stats
 
