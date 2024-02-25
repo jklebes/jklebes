@@ -5,7 +5,7 @@ Hi! I'm Jason Klebes.  I'm a computational physicist.  I have worked on scientif
 
 ## 🪛 Tech Stack
 
-### ❤️ I love
+### ❤️ Using
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B)&nbsp;
@@ -18,11 +18,13 @@ Hi! I'm Jason Klebes.  I'm a computational physicist.  I have worked on scientif
 ![Fortran](https://img.shields.io/badge/-R-734F96?style=flat&logo=R)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-Fortran-276DC3?style=flat&logo=Fortran)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=Pytest&logoColor=FFFFFF)&nbsp;
+![PyPI](https://img.shields.io/badge/-PyPI-0A9EDC?style=flat&logo=PyPI&logoColor=FFFFFF)&nbsp;
 
 ### 📜 Wishlist
 
-![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=Cmake)&nbsp;
+<!--- ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=Cmake)&nbsp; --->
 ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=Clojure&logoColor=FFFFFF)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust)&nbsp;
 
 ## 📈 Stats
 
