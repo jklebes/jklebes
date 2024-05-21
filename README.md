@@ -1,8 +1,7 @@
 
 ## About
 
-Hi! I'm Jason Klebes.  I'm a computational physicist.  I have worked on scientific simulations and large-scale data analysis in chemistry, astrophysics, soft matter, and biophysics.  
-
+Hi! I'm Jason Klebes.  I'm interested in computational physics, HPC, FOSS., mathematics, CLI applications.
 ## 🪛 Tech Stack
 
 ### ❤️ Using
