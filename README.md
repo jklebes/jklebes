@@ -18,7 +18,6 @@ Hi! I'm Jason Klebes.  I'm interested in computational physics, HPC, FOSS., math
 ![R (Statistics)](https://img.shields.io/badge/-Fortran-276DC3?style=flat&logo=Fortran)&nbsp;
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=R)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=Pytest&logoColor=FFFFFF)&nbsp;
-![PyPI](https://img.shields.io/badge/-PyPI-0A9EDC?style=flat&logo=PyPI&logoColor=FFFFFF)&nbsp;
 
 ### 📜 Wishlist
 
