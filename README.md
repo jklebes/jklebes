@@ -2,6 +2,9 @@
 ## About
 
 Hi! I'm Jason Klebes.  I'm interested in computational physics, HPC, FOSS., mathematics, CLI applications.
+
+I'm Modelling Officer for the University of Edinburgh School of Geosciences.  I work with researchers on various geophysical and ecological modelling and data analysis codes, with an eye towards efficient workflows and sustainable software development. I collaborate on conceptualizing and implementing original mathematical models as well as adding HPC acceleration to existing software.
+
 ## 🪛 Tech Stack
 
 ### ❤️ Using
